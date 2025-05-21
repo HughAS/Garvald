@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ScoreH_POI_3D_v2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Machine": "9-tonne Excavator Size", "Text": "Click me" }, "geometry": { "type": "Point", "coordinates": [ -2.180891548113047, 55.466174843511006, 600.55401611328125 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Machine": "9-tonne Excavator Size", "Text": "Click me" }, "geometry": { "type": "Point", "coordinates": [ -2.169568018412674, 55.468803830226442, 719.15264892578125 ] } }
+]
+}
